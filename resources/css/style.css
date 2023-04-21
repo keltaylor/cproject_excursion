@@ -10,3 +10,23 @@ h1 {
     color: white;
 }
 
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+.download {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+}
