@@ -2,12 +2,12 @@ body {
     background-color: black;
     text-align: center;
     font-family: Verdana, sans-serif;
+    color: white;
 }
 
 h1 {
     font-weight: normal;
     font-size: 50px;
-    color: white;
 }
 
 h2 {
@@ -26,7 +26,8 @@ p {
     text-decoration: underline;
 }
 
-.copyright {
+footer .copyright {
+    font-size: 16px;
     text-align: right;
     color: gray;
 }
